@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        char a = 1;
+        float a = 1;
         a=10000;
         System.out.println("Hello world!");
         System.out.println(0);
